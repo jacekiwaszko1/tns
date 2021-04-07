@@ -1,2 +1,4 @@
 tns.py
 *.tsv
+*.pl
+*.sh
